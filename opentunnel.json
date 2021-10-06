@@ -2,34 +2,34 @@
    "files": [    
 
 {
-         "name": "Germany DEH 1",
+         "name": "DEH 1",
          "url": "https://sshsslvpn.000webhostapp.com/Germany%20DEH%201.ovpn"
       },
 
 
 {
-         "name": "Singapore SGD 1",
+         "name": "SGD 1",
          "url": "https://sshsslvpn.000webhostapp.com/Singapore%20SGD%201.ovpn"
       },
 {
-         "name": "Singapore SGD 2",
+         "name": " SGD 2",
          "url": "https://sshsslvpn.000webhostapp.com/Singapore%20SGD%202.ovpn"
       },
 
 {
-         "name": "United States USQ 1",
+         "name": "USQ 1",
          "url": "https://sshsslvpn.000webhostapp.com/United%20States%20USQ%201.ovpn"
       },
 
 
 {
-         "name": "United States USF 1",
+         "name": "USF 1",
          "url": "https://sshsslvpn.000webhostapp.com/United%20States%20USF%201.ovpn"
       }
 
 
  ],
-"message":"======Note=====\n•Update:1\n•Opentunnel Server\n•Good Speed ",
+"message":"======Note=====\n•Update:2\n•Opentunnel Server\n•Good Speed ",
    "title":"Opentunnel Servers" ,
-   "version": 1
+   "version": 2
 }
