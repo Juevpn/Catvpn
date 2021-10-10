@@ -4,28 +4,28 @@
 
 {
          "name": "SG-CATVPN-001",
-         "url": "https://sshsslvpn.000webhostapp.com/SG-Fake-001.ovpn"
+         "url": "https://sshsslvpn.000webhostapp.com/SG-Catvpn-001.ovpn"
       },
 
 
 {
          "name": "SG-CATVPN-002",
-         "url": "https://sshsslvpn.000webhostapp.com/SG-Fake-002.ovpn"
+         "url": "https://sshsslvpn.000webhostapp.com/SG-Catvpn-002.ovpn"
       },
 {
          "name": "SG-CATVPN-003",
-         "url": "https://sshsslvpn.000webhostapp.com/SG-Fake-003.ovpn"
+         "url": "https://sshsslvpn.000webhostapp.com/SG-Catvpn-003.ovpn"
       },
 
 {
          "name": "SG-CATVPN-004",
-         "url": "https://sshsslvpn.000webhostapp.com/SG-Fake-004.ovpn"
+         "url": "https://sshsslvpn.000webhostapp.com/SG-Catvpn-004.ovpn"
       },
 
 
 {
          "name": "SG-CATVPN-005",
-         "url": "https://sshsslvpn.000webhostapp.com/SG-Fake-005.ovpn"
+         "url": "https://sshsslvpn.000webhostapp.com/SG-Catvpn-005.ovpn"
       },
 
 
@@ -33,142 +33,38 @@
 
 {
          "name": "SG-CATVPN-006",
-         "url": "https://sshsslvpn.000webhostapp.com/SG-Fake-006.ovpn"
+         "url": "https://sshsslvpn.000webhostapp.com/SG-Catvpn-006.ovpn"
       },
 
 
 {
          "name": "SG-CATVPN-007",
-         "url": "https://sshsslvpn.000webhostapp.com/SG-Fake-007.ovpn"
+         "url": "https://sshsslvpn.000webhostapp.com/SG-Catvpn-007.ovpn"
       },
 
 {
          "name": "SG-CATVPN-008",
-         "url": "https://sshsslvpn.000webhostapp.com/SG-Fake-008.ovpn"
+         "url": "https://sshsslvpn.000webhostapp.com/SG-Catvpn-008.ovpn"
       },
 
 
 
 {
          "name": "SG-CATVPN-009",
-         "url": "https://sshsslvpn.000webhostapp.com/SG-Fake-009.ovpn"
+         "url": "https://sshsslvpn.000webhostapp.com/SG-Catvpn-009.ovpn"
       },
 
 
 
 {
          "name": "SG-CATVPN-010",
-         "url": "https://sshsslvpn.000webhostapp.com/SG-Fake-010.ovpn"
-      },
-
-{
-         "name": "HK-CATVPN-001",
-         "url": "https://sshsslvpn.000webhostapp.com/HK-Fake-001.ovpn"
-      },
-
-
-{
-         "name": "HK-CATVPN-002",
-         "url": "https://sshsslvpn.000webhostapp.com/HK-Fake-002.ovpn"
-      },
-{
-         "name": "HK-CATVPN-003",
-         "url": "https://sshsslvpn.000webhostapp.com/HK-Fake-003.ovpn"
-      },
-
-{
-         "name": "HK-CATVPN-004",
-         "url": "https://sshsslvpn.000webhostapp.com/HK-Fake-004.ovpn"
-      },
-
-
-{
-         "name": "HK-CATVPN-005",
-         "url": "https://sshsslvpn.000webhostapp.com/HK-Fake-005.ovpn"
-      },
-
-{
-         "name": "IN-CATVPN-001",
-         "url": "https://sshsslvpn.000webhostapp.com/IN-Fake-001.ovpn"
-      },
-
-
-{
-         "name": "IN-CATVPN-002",
-         "url": "https://sshsslvpn.000webhostapp.com/IN-Fake-002.ovpn"
-      },
-{
-         "name": "IN-CATVPN-003",
-         "url": "https://sshsslvpn.000webhostapp.com/IN-Fake-003.ovpn"
-      },
-
-{
-         "name": "IN-CATVPN-004",
-         "url": "https://sshsslvpn.000webhostapp.com/IN-Fake-004.ovpn"
-      },
-
-
-{
-         "name": "IN-CATVPN-005",
-         "url": "https://sshsslvpn.000webhostapp.com/IN-Fake-005.ovpn"
-      },
-
-{
-         "name": "JP-CATVPN-001",
-         "url": "https://sshsslvpn.000webhostapp.com/JP-Fake-001.ovpn"
-      },
-
-
-{
-         "name": "JP-CATVPN-002",
-         "url": "https://sshsslvpn.000webhostapp.com/JP-Fake-002.ovpn"
-      },
-{
-         "name": "JP-CATVPN-003",
-         "url": "https://sshsslvpn.000webhostapp.com/JP-Fake-003.ovpn"
-      },
-
-{
-         "name": "JP-CATVPN-004",
-         "url": "https://sshsslvpn.000webhostapp.com/JP-Fake-004.ovpn"
-      },
-
-
-{
-         "name": "JP-CATVPN-005",
-         "url": "https://sshsslvpn.000webhostapp.com/JP-Fake-005.ovpn"
-      },
-
-{
-         "name": "KR-CATVPN-001",
-         "url": "https://sshsslvpn.000webhostapp.com/KR-Fake-001.ovpn"
-      },
-
-
-{
-         "name": "KR-CATVPN-002",
-         "url": "https://sshsslvpn.000webhostapp.com/KR-Fake-002.ovpn"
-      },
-{
-         "name": "KR-CATVPN-003",
-         "url": "https://sshsslvpn.000webhostapp.com/KR-Fake-003.ovpn"
-      },
-
-{
-         "name": "KR-CATVPN-004",
-         "url": "https://sshsslvpn.000webhostapp.com/KR-Fake-004.ovpn"
-      },
-
-
-{
-         "name": "KR-CATVPN-005",
-         "url": "https://sshsslvpn.000webhostapp.com/KR-Fake-005.ovpn"
+         "url": "https://sshsslvpn.000webhostapp.com/SG-Catvpn-010.ovpn"
       }
 
 
 
  ],
-"message":"CATVPN V2\n•Version: 2\n•Update: 6 October 2021\n•Update by: Juehtet\n•Donate TrueWellet:0953244179\n• အားလုံးပဲအဆင်ပြေကြပါစေ\n•Config By:JH ",
-   "title":" All Servers New" ,
-   "version": 2
+"message":"Add 10 New Server\n•Version: 3\n•Update: 6 October 2021\n•Update by: Juehtet\n•Donate TrueWellet:0953244179\n• အားလုံးပဲအဆင်ပြေကြပါစေ\n•Config By:JH ",
+   "title":"❤️Make With Love From JueHtet❤️" ,
+   "version": 3
 }
