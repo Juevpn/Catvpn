@@ -3,28 +3,28 @@
 
 {
          "name": "SG-CATVPN-VIP-001",
-         "url": "https://juessh.000webhostapp.com/SG-TOOL-001.ovpn"
+         "url": "https://sshsslvpn.000webhostapp.com/SG-Valor-001.ovpn"
       },
 
 
 {
          "name": "SG-CATVPN-VIP-002",
-         "url": "https://juessh.000webhostapp.com/SG-TOOL-002.ovpn"
+         "url": "https://sshsslvpn.000webhostapp.com/SG-Valor-002.ovpn"
       },
 {
          "name": "SG-CATVPN-VIP-003",
-         "url": "https://juessh.000webhostapp.com/SG-TOOL-003.ovpn"
+         "url": "https://sshsslvpn.000webhostapp.com/SG-Valor-003.ovpn"
       },
 
 {
          "name": "SG-CATVPN-VIP-004",
-         "url": "https://juessh.000webhostapp.com/SG-TOOL-004.ovpn"
+         "url": "https://sshsslvpn.000webhostapp.com/SG-Valor-004.ovpn"
       },
 
 
 {
          "name": "SG-CATVPN-VIP-005",
-         "url": "https://juessh.000webhostapp.com/SG-TOOL-005.ovpn"
+         "url": "https://sshsslvpn.000webhostapp.com/SG-Valor-001.ovpn"
       },
 
 
@@ -32,23 +32,23 @@
 
 {
          "name": "SG-CATVPN-VIP-006",
-         "url": "https://juessh.000webhostapp.com/SG-TOOL-006.ovpn"
+         "url": "https://sshsslvpn.000webhostapp.com/SG-Valor-002.ovpn"
       },
 
 
 {
          "name": "SG-CATVPN-VIP-007",
-         "url": "https://juessh.000webhostapp.com/SG-TOOL-007.ovpn"
+         "url": "https://sshsslvpn.000webhostapp.com/SG-Valor-003.ovpn"
       },
 {
          "name": "SG-CATVPN-VIP-008",
-         "url": "https://juessh.000webhostapp.com/SG-TOOL-008.ovpn"
+         "url": "https://sshsslvpn.000webhostapp.com/SG-Valor-004.ovpn"
       }
 
 
 
  ],
-"message":"Add ALL VIP Servers\n•Version: 2\n•Update: 2 October 2021\n•Update by: Juehtet\n•Donate TrueWellet:0953244179\n• အားလုံးပဲအဆင်ပြေကြပါစေ\n•Config By:JH ",
+"message":"Add ALL VIP Servers\n•Version: 3\n•Update: 17 October 2021\n•Update by: Juehtet\n•Donate TrueWellet:0953244179\n• အားလုံးပဲအဆင်ပြေကြပါစေ\n•Config By:JH ",
    "title":"Fixed All Servers" ,
-   "version": 2
+   "version": 3
 }
