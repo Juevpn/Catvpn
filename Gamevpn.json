@@ -166,11 +166,38 @@
 {
          "name": "Dtac-90DAYS-Game-010-VIP",
          "url": "https://sshsslvpn.000webhostapp.com/Game-010.ovpn"
+      },
+
+{
+         "name": "Dtac-HWork-Game-001-VIP",
+         "url": "https://sshsslvpn.000webhostapp.com/Dtac-Work-001.ovpn"
+      },
+
+
+{
+         "name": "Dtac-HWork-Game-002-VIP",
+         "url": "https://sshsslvpn.000webhostapp.com/Dtac-Work-002.ovpn"
+      },
+{
+         "name": "Dtac-HWork-Game-003-VIP",
+         "url": "https://sshsslvpn.000webhostapp.com/Dtac-Work-003.ovpn"
+      },
+
+{
+         "name": "Dtac-HWork-Game-004-VIP",
+         "url": "https://sshsslvpn.000webhostapp.com/Dtac-Work-004.ovpn"
+      },
+
+
+      
+{
+         "name": "Dtac-HWork-Game-005-VIP",
+         "url": "https://sshsslvpn.000webhostapp.com/Dtac-Work-005.ovpn"
       }
 
 
    ],
-"message":"Update 1 September 2021\n•All New Servers\n•Version: 3\n\n•Config By:JueHtet ",
-   "title":"Add More Servers" ,
-   "version": 3
+"message":"Update 1 September 2021\n•All New Servers\n•Version: 4\n\n•Config By:JueHtet ",
+   "title":"Add Dtac HWork" ,
+   "version": 4
 }
